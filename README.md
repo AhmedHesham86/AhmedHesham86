@@ -1,11 +1,11 @@
-###                                                                                                              **Greetings! 👋**
+### **Greetings! 👋**
 
 
 
-                                                                                                             *** Welcome to my page! ***
+ *** Welcome to my page! ***
 
-                                                                                                                      I'm Ahmed.
-                                                                                                   I’m currently learning C++  and working on small C++ projects 
+    I'm Ahmed.
+ I’m currently learning C++  and working on small C++ projects 
                                                                                                   
 
 
