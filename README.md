@@ -5,7 +5,7 @@
 Welcome to my page! 
 
     I'm Ahmed.
- I’m currently learning C++  and working on small C++ projects 
+ I’m currently studying embedded linux and doing C++ projects !
                                                                                                   
 
 
